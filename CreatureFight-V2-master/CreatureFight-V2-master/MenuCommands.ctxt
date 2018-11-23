@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MenuCommands
+comment0.text=\r\n\ MenuCommands\ executes\ the\ creature\ and\ idx\ methods\r\n
+comment1.params=idx\ c
+comment1.target=void\ execute(int,\ Creature)
+numComments=2
